@@ -5,10 +5,10 @@
 ### Periksa dulu, bayar kemudian.
 Lapisan verifikasi risiko kode QR yang bekerja **sebelum** transaksi diselesaikan.
 
-![Mata Kuliah](https://img.shields.io/badge/Mata%20Kuliah-Analisis%20%26%20Rancangan%20Perangkat%20Lunak-blue)
-![Metode](https://img.shields.io/badge/Metode-Agile%20Scrum-orange)
-![Platform](https://img.shields.io/badge/Platform-Android%20%2B%20Web%20Admin-green)
-![Status](https://img.shields.io/badge/Status-Tahap%20Analisis%20%26%20Desain-yellow)
+**Mata Kuliah:** Analisis dan Rancangan Perangkat Lunak<br>
+**Metode:** Agile Scrum<br>
+**Platform:** Android + Web Admin<br>
+**Status:** Tahap Analisis dan Desain
 
 </div>
 
@@ -18,20 +18,18 @@ Lapisan verifikasi risiko kode QR yang bekerja **sebelum** transaksi diselesaika
 
 **Kelompok 2** | Ujian Tengah Semester
 
-| No | Nama | NIM |
-|----|------|-----|
-| 1 | Suheil Heru Madhani | 25343166 |
-| 2 | Nasywa Althafunnisa | 24343017 |
-| 3 | Muhammad Zikri | 24343120 |
-| 4 | Elsa Anggrayni | 24343086 |
-| 5 | Hikmah Fauzan | 24343117 |
+**Anggota:**
 
-| | |
-|---|---|
-| **Mata Kuliah** | Analisis dan Rancangan Perangkat Lunak |
-| **Dosen Pengampu** | Randi Proska Sandra, S.Pd., M.Sc. |
-| **Program Studi** | Informatika, Departemen Elektronika |
-| **Institusi** | Fakultas Teknik, Universitas Negeri Padang (2026) |
+1. Suheil Heru Madhani (25343166)
+2. Nasywa Althafunnisa (24343017)
+3. Muhammad Zikri (24343120)
+4. Elsa Anggrayni (24343086)
+5. Hikmah Fauzan (24343117)
+
+**Mata Kuliah:** Analisis dan Rancangan Perangkat Lunak<br>
+**Dosen Pengampu:** Randi Proska Sandra, S.Pd., M.Sc.<br>
+**Program Studi:** Informatika, Departemen Elektronika<br>
+**Institusi:** Fakultas Teknik, Universitas Negeri Padang (2026)
 
 ---
 
