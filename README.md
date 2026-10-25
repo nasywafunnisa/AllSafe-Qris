@@ -6,9 +6,6 @@
 Lapisan verifikasi risiko kode QR yang bekerja **sebelum** transaksi diselesaikan.
 
 **Mata Kuliah:** Analisis dan Rancangan Perangkat Lunak<br>
-**Metode:** Agile Scrum<br>
-**Platform:** Android + Web Admin<br>
-**Status:** Tahap Analisis dan Desain
 
 </div>
 
